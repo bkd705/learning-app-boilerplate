@@ -1,0 +1,21 @@
+.record-type-meta {
+  margin-bottom: 25px;
+}
+
+.record-type-fields {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.record-detail-field {
+  margin: 0 20px;
+}
+
+.record-detail-field:first-of-type {
+  margin-left: 0;
+}
+
+.record-detail-field:last-of-type {
+  margin-right: 0;
+}
